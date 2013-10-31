@@ -30,7 +30,6 @@ PRODUCT_COPY_FILES := \
     vendor/sony/nypon/proprietary/bin/modemcatcher:system/bin/modemcatcher \
     vendor/sony/nypon/proprietary/bin/modem-supervisor:system/bin/modem-supervisor \
     vendor/sony/nypon/proprietary/bin/msa:system/bin/msa \
-    vendor/sony/nypon/proprietary/bin/illumination_service:system/bin/illumination_service \
     vendor/sony/nypon/proprietary/bin/psccd:system/bin/psccd \
     vendor/sony/nypon/proprietary/bin/rfhal_export:system/bin/rfhal_export \
     vendor/sony/nypon/proprietary/bin/simd:system/bin/simd \
@@ -120,7 +119,6 @@ PRODUCT_COPY_FILES := \
     vendor/sony/nypon/proprietary/lib/hw/sensors.default.so:system/lib/hw/sensors.default.so \
     vendor/sony/nypon/proprietary/lib/hw/nfc.montblanc.so:system/lib/hw/nfc.montblanc.so \
     vendor/sony/nypon/proprietary/lib/hw/hdmi.default.so:system/lib/hw/hdmi.default.so \
-    vendor/sony/nypon/proprietary/lib/hw/lights.st-ericsson.so:system/lib/hw/lights.st-ericsson.so \
     vendor/sony/nypon/proprietary/lib/lib_asb_tee.so:system/lib/lib_asb_tee.so \
     vendor/sony/nypon/proprietary/lib/libals.so:system/lib/libals.so \
     vendor/sony/nypon/proprietary/lib/libarchive.so:system/lib/libarchive.so \
