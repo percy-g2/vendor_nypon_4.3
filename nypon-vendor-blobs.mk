@@ -126,7 +126,6 @@ PRODUCT_COPY_FILES := \
     vendor/sony/nypon/proprietary/lib/libaudiopolicy.so:system/lib/libaudiopolicy.so \
     vendor/sony/nypon/proprietary/lib/libbassapp.so:system/lib/libbassapp.so \
     vendor/sony/nypon/proprietary/lib/libbluedroid.so:system/lib/libbluedroid.so \
-    vendor/sony/nypon/proprietary/lib/libcspsa.so:system/lib/libcspsa.so \
     vendor/sony/nypon/proprietary/lib/libcald_client.so:system/lib/libcald_client.so \
     vendor/sony/nypon/proprietary/lib/libcald_hal.so:system/lib/libcald_hal.so \
     vendor/sony/nypon/proprietary/lib/libcald_imageutil.so:system/lib/libcald_imageutil.so \
