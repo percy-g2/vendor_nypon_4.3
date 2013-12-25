@@ -205,6 +205,7 @@ PRODUCT_COPY_FILES := \
     vendor/sony/nypon/proprietary/lib/libtee.so:system/lib/libtee.so \
     vendor/sony/nypon/proprietary/lib/libtrace.so:system/lib/libtrace.so \
     vendor/sony/nypon/proprietary/lib/libu300-parser.so:system/lib/libu300-parser.so \
+    vendor/sony/nypon/proprietary/lib/libu300-ril.so:system/lib/libu300-ril.so \
     vendor/sony/nypon/proprietary/lib/libUMP.so:system/lib/libUMP.so \
     vendor/sony/nypon/proprietary/lib/sysmon/sysmon_ab8500.so:system/lib/sysmon/sysmon_ab8500.so \
     vendor/sony/nypon/proprietary/lib/sysmon/sysmon_ab8500_bat_ctrl.so:system/lib/sysmon/sysmon_ab8500_bat_ctrl.so \
