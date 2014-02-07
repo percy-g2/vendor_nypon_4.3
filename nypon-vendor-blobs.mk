@@ -18,6 +18,7 @@ PRODUCT_COPY_FILES := \
     vendor/sony/nypon/proprietary/app/HdmiService.apk:system/app/HdmiService.apk \
     vendor/sony/nypon/proprietary/bin/admsrv:system/bin/admsrv \
     vendor/sony/nypon/proprietary/bin/at_core:system/bin/at_core \
+    vendor/sony/nypon/proprietary/bin/batcap:system/bin/batcap \
     vendor/sony/nypon/proprietary/bin/blue-up.sh:system/bin/blue-up.sh \
     vendor/sony/nypon/proprietary/bin/cg2900-channel_init.sh:system/bin/cg2900-channel_init.sh \
     vendor/sony/nypon/proprietary/bin/chargemon:system/bin/chargemon \
