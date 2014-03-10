@@ -151,6 +151,9 @@ PRODUCT_COPY_FILES := \
     vendor/sony/nypon/proprietary/lib/libkeyctrl.so:system/lib/libkeyctrl.so \
     vendor/sony/nypon/proprietary/lib/liblbstestengine.so:system/lib/liblbstestengine.so \
     vendor/sony/nypon/proprietary/lib/liblos.so:system/lib/liblos.so \
+    vendor/sony/nypon/proprietary/lib/liblightcycle.so:system/lib/liblightcycle.so \
+    vendor/sony/nypon/proprietary/lib/liblights-core.so:system/lib/liblights-core.so \
+    vendor/sony/nypon/proprietary/lib/libLightsJni.so.so:system/lib/libLightsJni.so.so \
     vendor/sony/nypon/proprietary/lib/libmalcs.so:system/lib/libmalcs.so \
     vendor/sony/nypon/proprietary/lib/libmalftd.so:system/lib/libmalftd.so \
     vendor/sony/nypon/proprietary/lib/libmalgpds.so:system/lib/libmalgpds.so \
